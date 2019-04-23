@@ -11,6 +11,8 @@
     "interface-name": [true, "never-prefix"],
     "object-literal-sort-keys": false,
     "member-access": [true, "no-public"],
-    "ordered-imports": false
+    "ordered-imports": false,
+    "no-empty-interface": false,
+    "jsx-no-lambda": false
   }
 }
